@@ -10,9 +10,9 @@ function App() {
     <BrowserRouter>
     
       <Routes>
-        <Route path='/' element={<AppLayout/>}>
+        <Route path='/modakChallenge' element={<AppLayout/>}>
           <Route index element={<FriendsPage/>} />
-          <Route path='/users' element={<FriendsPage/>} />
+          <Route path='/modakChallenge/users' element={<FriendsPage/>} />
         </Route>
       </Routes>
     </BrowserRouter>
