@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/modakFront/static/css/main.00145fed.css",
-    "main.js": "/modakFront/static/js/main.5354c5b0.js",
-    "static/media/boxicons.svg": "/modakFront/static/media/boxicons.17f6cb4eef77f07f2caa.svg",
-    "static/media/boxicons.eot": "/modakFront/static/media/boxicons.dfc882ec9689f820c7c9.eot",
-    "static/media/boxicons.woff": "/modakFront/static/media/boxicons.1a7e2e2bf3a855e674d4.woff",
-    "static/media/boxicons.ttf": "/modakFront/static/media/boxicons.22afc8ee5cfc540cddff.ttf",
-    "static/media/ubuntu-regular-webfont.svg": "/modakFront/static/media/ubuntu-regular-webfont.9355184794077d21cdeb.svg",
-    "static/media/boxicons.woff2": "/modakFront/static/media/boxicons.60f603cccbdff82a523c.woff2",
-    "static/media/ubuntu-regular-webfont.ttf": "/modakFront/static/media/ubuntu-regular-webfont.d05e3bd9355863243e27.ttf",
-    "static/media/ubuntu-regular-webfont.woff": "/modakFront/static/media/ubuntu-regular-webfont.85e2b2ff8fc7d2139fd8.woff",
-    "static/media/ubuntu-regular-webfont.eot": "/modakFront/static/media/ubuntu-regular-webfont.a09dee3120cd4be36663.eot",
-    "index.html": "/modakFront/index.html",
-    "main.00145fed.css.map": "/modakFront/static/css/main.00145fed.css.map",
-    "main.5354c5b0.js.map": "/modakFront/static/js/main.5354c5b0.js.map"
+    "main.css": "/static/css/main.d7b4e481.css",
+    "main.js": "/static/js/main.5354c5b0.js",
+    "static/media/boxicons.svg": "/static/media/boxicons.17f6cb4eef77f07f2caa.svg",
+    "static/media/boxicons.eot": "/static/media/boxicons.dfc882ec9689f820c7c9.eot",
+    "static/media/boxicons.woff": "/static/media/boxicons.1a7e2e2bf3a855e674d4.woff",
+    "static/media/boxicons.ttf": "/static/media/boxicons.22afc8ee5cfc540cddff.ttf",
+    "static/media/ubuntu-regular-webfont.svg": "/static/media/ubuntu-regular-webfont.9355184794077d21cdeb.svg",
+    "static/media/boxicons.woff2": "/static/media/boxicons.60f603cccbdff82a523c.woff2",
+    "static/media/ubuntu-regular-webfont.ttf": "/static/media/ubuntu-regular-webfont.d05e3bd9355863243e27.ttf",
+    "static/media/ubuntu-regular-webfont.woff": "/static/media/ubuntu-regular-webfont.85e2b2ff8fc7d2139fd8.woff",
+    "static/media/ubuntu-regular-webfont.eot": "/static/media/ubuntu-regular-webfont.a09dee3120cd4be36663.eot",
+    "index.html": "/index.html",
+    "main.d7b4e481.css.map": "/static/css/main.d7b4e481.css.map",
+    "main.5354c5b0.js.map": "/static/js/main.5354c5b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.00145fed.css",
+    "static/css/main.d7b4e481.css",
     "static/js/main.5354c5b0.js"
   ]
 }
