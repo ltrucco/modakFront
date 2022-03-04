@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/modakFront/static/css/main.00145fed.css",
-    "main.js": "/modakFront/static/js/main.378f5b3c.js",
+    "main.js": "/modakFront/static/js/main.54f59592.js",
     "static/media/boxicons.svg": "/modakFront/static/media/boxicons.17f6cb4eef77f07f2caa.svg",
     "static/media/boxicons.eot": "/modakFront/static/media/boxicons.dfc882ec9689f820c7c9.eot",
     "static/media/boxicons.woff": "/modakFront/static/media/boxicons.1a7e2e2bf3a855e674d4.woff",
@@ -13,10 +13,10 @@
     "static/media/ubuntu-regular-webfont.eot": "/modakFront/static/media/ubuntu-regular-webfont.a09dee3120cd4be36663.eot",
     "index.html": "/modakFront/index.html",
     "main.00145fed.css.map": "/modakFront/static/css/main.00145fed.css.map",
-    "main.378f5b3c.js.map": "/modakFront/static/js/main.378f5b3c.js.map"
+    "main.54f59592.js.map": "/modakFront/static/js/main.54f59592.js.map"
   },
   "entrypoints": [
     "static/css/main.00145fed.css",
-    "static/js/main.378f5b3c.js"
+    "static/js/main.54f59592.js"
   ]
 }
