@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 export default axios.create({
-    baseURL: 'http://localhost:3000',
+    baseURL: 'https://modak-api.herokuapp.com',
     timeout: 10000000,
     responseType: "json",
     withCredentials: false,
