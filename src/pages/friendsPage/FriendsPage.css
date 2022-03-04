@@ -1,0 +1,9 @@
+.friendsPage__title{
+    font-size: 3rem;
+    font-weight: 500;
+    color: #555555;
+}
+
+.friendsPage__select{
+    margin-top: 30px;
+}

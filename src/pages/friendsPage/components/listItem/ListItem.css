@@ -1,0 +1,24 @@
+.listItem__textAlignCenter{
+    text-align: center;
+}
+
+.listItem__userName{
+    font-size: 30px;
+}
+
+.listItem__userLogo{
+    margin-top: 20px;
+    height: 100px;
+    width: 100px;
+    border: 5px solid black;
+}
+
+.listItem__title{
+    font-size: 25px;
+}
+
+
+.listItem__userLesson{
+    padding-bottom: 15px;
+    font-size: 20px;
+}

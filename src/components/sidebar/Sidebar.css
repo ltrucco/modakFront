@@ -1,0 +1,43 @@
+.sidebar__container{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 320px;
+    background-color: #fff;
+}
+
+.sidebar__logo{
+    display: grid;
+    place-items: center;
+    height: 110px;
+    width: 250px;
+    margin: 10px 0px 10px 40px;
+}
+
+.sidebar__menu{
+    position: relative
+}
+
+.sidebar__menuItem{
+    display: flex;
+    align-items: center;
+    place-content: flex-start;
+    padding: 1rem 3rem;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #555555;
+}
+
+.sidebar__active{
+    background-color: #e2dfdf;
+}
+
+.sidebar__menuItemIcon{
+    margin-right: 1rem;
+    font-size: 1.75rem;
+}
+
+.sidebar__menuItemtext i{
+    font-size: 1.75rem;
+}
